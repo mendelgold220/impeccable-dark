@@ -1,0 +1,14 @@
+{
+  "name": "impeccable-dark",
+  "owner": {
+    "name": "mendelgold220"
+  },
+  "plugins": [
+    {
+      "name": "impeccable-dark",
+      "source": ".",
+      "description": "Production-grade frontend design + dark mode mastery. 2 skills, 20 commands.",
+      "version": "1.0.0"
+    }
+  ]
+}
