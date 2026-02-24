@@ -1,14 +1,23 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "impeccable-dark",
+  "metadata": {
+    "description": "Production-grade frontend design + dark mode mastery. 2 skills, 20 commands."
+  },
   "owner": {
     "name": "mendelgold220"
   },
   "plugins": [
     {
       "name": "impeccable-dark",
-      "source": ".",
-      "description": "Production-grade frontend design + dark mode mastery. 2 skills, 20 commands.",
-      "version": "1.0.0"
+      "description": "Production-grade frontend design + dark mode mastery. Combines the Impeccable frontend-design skill with a comprehensive dark-mode-design skill. 20 commands including /darken, /audit-dark, /theme-toggle, /polish, /audit, /colorize, and more.",
+      "version": "1.0.0",
+      "author": {
+        "name": "mendelgold220"
+      },
+      "source": "./",
+      "category": "design",
+      "tags": ["design", "frontend", "dark-mode", "ui", "ux", "skills", "commands"]
     }
   ]
 }

@@ -1,8 +1,11 @@
 {
   "name": "impeccable-dark",
-  "description": "Production-grade frontend design skill with dark mode mastery. Combines the Impeccable frontend-design skill (typography, color, layout, motion, interaction, responsive, UX writing) with a comprehensive dark-mode-design skill (surface elevation, color adaptation, component patterns, accessibility, theme switching). Includes 20 commands for building, auditing, and refining interfaces.",
+  "description": "Production-grade frontend design + dark mode mastery. 2 skills, 20 commands.",
   "version": "1.0.0",
   "author": {
-    "name": "kidstemp"
-  }
+    "name": "mendelgold220"
+  },
+  "repository": "https://github.com/mendelgold220/impeccable-dark",
+  "commands": "./.claude/commands",
+  "skills": "./.claude/skills"
 }
